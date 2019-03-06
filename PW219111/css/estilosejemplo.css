@@ -1,0 +1,19 @@
+body {
+	max-width: 1024px;
+}
+header {
+	background: blue;
+	color: black;
+	text-align:center;
+}
+header nav ul li {
+	/*fondo del li */
+	background: orange;
+	border-radius: 5px;
+	display: inline-block;
+	width: 90px;
+}
+header nav ul li:hover{
+	background: black;
+	color: orange;
+}
