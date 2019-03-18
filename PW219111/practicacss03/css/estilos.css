@@ -1,0 +1,25 @@
+body {
+	background-color: black;
+	font-size: 16px;
+	margin: 0px auto;
+	min-width: 1044px;
+	max-width: 1044px;
+}
+header{
+	background-color: #E6E6E6;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+header input{
+	float: left;
+	margin-left: -200px;
+	margin-top: 15px;
+	/*position: relative;*/
+}
+header nav	{
+	background-color: #E6E6E6;
+	margin-right: 200px; 
+}
+#seccion1{
+
+}
