@@ -1,0 +1,83 @@
+body {
+	background-color: #2b2b2b;
+	font-size: 16px;
+	margin: 0 auto;
+	min-width: 1044px;
+	max-width: 1280px;
+	color: white;
+}
+header{
+	background-color: #E6E6E6;
+	height: 80px;
+	padding: 10px 16px 20px;
+}
+header span {
+	float: left;
+	width: 200px;
+}
+header img {
+	float: left;
+	width: calc(100% - 200px);
+}
+header nav	{
+	background-color: #E6E6E6;
+	margin-right: 200px;
+}
+section {
+	display: inline-block;
+	width: 100%;
+}
+footer {
+	color: white;
+}
+footer article {
+	display: inline-block;
+	margin-right: 33px;
+}
+#footA1{
+	padding-left: 90px;
+	width: 250px;
+}/*
+#footA2{
+	margin-right: 99px;
+	margin-top: 50px;
+}
+
+#footA3{
+	float: right;
+	left: 25px;
+}*/
+#seccion1 {
+	padding: 16px;
+	padding-bottom: 40px;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+#seccion1 article {
+	float: left;
+	width: calc((100% - 200px) / 4);
+	padding: 24px 8px;
+	height: 300px;
+	box-sizing: border-box;
+}
+#article1 {
+	width: 200px !important;
+}
+#article1 img {
+	width: 100%;
+}
+#seccion2 article {
+	display: inline-block;
+	min-width: 33%;
+}
+#seccion2 article img {
+	width: 100%;
+}
+.contenedor-imagen {
+	max-width: 300px;
+	margin: 0 auto;
+  padding: 24px;
+  border-bottom: 1px dashed;
+}
+.letraGris{
+	color: gray;
+}
