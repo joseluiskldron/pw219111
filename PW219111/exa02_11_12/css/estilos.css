@@ -1,0 +1,68 @@
+body{
+	font-size: 16px;
+	margin: 0px auto;
+	max-width: 1024px;
+}
+header{
+	border-bottom: 3px solid black;
+	padding-bottom: 15px;  
+
+}
+header span{
+	display: inline-block;
+	margin-right: 35px;
+	margin-top: 10px; 
+	text-align: top;
+}
+
+#fecha
+{
+	font-weight: bold;
+	font-size: 12px;
+
+}
+#lupa{
+	margin-left: -25px;
+}
+#menu{
+	width: 25px;
+}
+#North{
+	text-align: center;
+	margin-right: 275px;
+	margin-left: 205px;
+	padding-right: 40px;
+}
+#parrafo{
+	margin-top: 50px;
+}
+#planta{
+	border-top: -20px;
+	width: 680px;
+}
+#primerSeccion article{
+	display: inline-block;
+	width: 45%;
+	padding-top: 25px;
+}
+#primerArticle{
+	font-size: 1em;
+	width: 20%;
+}
+#segundoArticle
+{
+	border-left: 2px solid black;
+	position: relative;
+	right: -230px;
+	
+}
+#segundoArticle img{
+	width: 260px;
+}
+#Indigo{
+	font-size: 3em;
+	font-weight: bold;
+	left: 40px;
+	position: relative;
+	top: -200px;
+}
